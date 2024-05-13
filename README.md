@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jkm96
-- 👀 I’m interested in automation and API development
-- 🌱 I’m currently learning frontend development using nextjs
-- 💞️ I’m looking to collaborate on any C#,.NET or nextjs project
+- 👀 I’m interested in Automation, Web and API development
+- 🌱 I’m currently learning Frontend development using Next.js
+- 💞️ I’m looking to collaborate on any .NET, Laravel or Next.js project
 - 📫 How to reach me jkm96.dev@gmail.com
 
 <!---
