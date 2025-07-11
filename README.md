@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jkm96
-- 👀 I’m interested in Automation, Web and API development
-- 🌱 I’m currently learning Frontend development using Next.js
-- 💞️ I’m looking to collaborate on any .NET, Laravel or Next.js project
-- 📫 How to reach me jkm96.dev@gmail.com
+-👋 Hello, I am @jkm96
+-👀 Passionate about Automation, Web, and API Development
+-🌱 Currently diving into Frontend Development with Next.js
+-💞️ Open to collaborations on .NET, Laravel, or Python projects
+-📫 Reach me at: jkm96.dev@gmail.com
 
 <!---
 jkm96/jkm96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
